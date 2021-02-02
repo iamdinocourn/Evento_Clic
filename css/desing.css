@@ -1,0 +1,55 @@
+.saludos {
+    color: blueviolet;
+    margin-top: 150px;
+    font-size: 20px;
+    text-align: center;
+font-family: 'Yusei Magic', sans-serif;
+}
+.nuevaClase{
+    color:  #990E00 ;
+    font-size: 30px;
+    transition: 0.5s;
+
+    
+}
+
+.estilo_1 {
+width: 300px;
+    height: 400;
+    background-color:  #E10096 ;
+    margin: auto;
+    font-family: 'Yusei Magic', sans-serif;
+    
+}
+.estilo_2 {
+width: 300px;
+    height: 200px;
+    background-color: #00ADC6 ;
+    margin: auto;
+    transition: 0.5s;
+    font-family: 'Yusei Magic', sans-serif;
+}
+.ds_btn {
+    width: 100px;
+    height: 30px;
+    background-color: #FCA80A ;
+    color: #fff;
+    text-align: center;
+    margin: auto;
+    margin-top: 10px;
+    padding-top: 10px;
+    cursor: pointer;
+font-family: 'Yusei Magic', sans-serif;
+}
+.ds_btn2 {
+    width: 100px;
+    height: 30px;
+    background-color:  #FCA80A ;
+    color: black;
+    text-align: center;
+    margin: auto;
+    margin-top: 10px;
+    padding-top: 10px;
+    cursor: pointer;
+font-family: 'Yusei Magic', sans-serif;
+}
